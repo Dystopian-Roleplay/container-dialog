@@ -7,14 +7,14 @@
 	"dependencies": [
 		"sampctl/samp-stdlib",
 		"Awsomedude/easyDialog",
-		"ScavengeSurvive/container",
-		"ScavengeSurvive/inventory-dialog",
+		"Dystopian-Roleplay/container",
+		"Dystopian-Roleplay/inventory-dialog",
 		"Southclaws/zcmd"
 	],
 	"dev_dependencies": [
-		"ScavengeSurvive/test-boilerplate",
-		"ScavengeSurvive/test-boilerplate-item",
-		"ScavengeSurvive/test-boilerplate-items"
+		"Dystopian-Roleplay/test-boilerplate",
+		"Dystopian-Roleplay/test-boilerplate-item",
+		"Dystopian-Roleplay/test-boilerplate-items"
 	],
 	"runtime": {
 		"version": "0.3.7",
