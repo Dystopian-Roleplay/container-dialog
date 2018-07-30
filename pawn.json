@@ -7,8 +7,8 @@
 	"dependencies": [
 		"sampctl/samp-stdlib",
 		"Awsomedude/easyDialog",
-		"Dystopian-Roleplay/container",
-		"Dystopian-Roleplay/inventory-dialog",
+		"Dystopian-Roleplay/container@2.0.0",
+		"Dystopian-Roleplay/inventory-dialog@2.0.0",
 		"Southclaws/zcmd"
 	],
 	"dev_dependencies": [
